@@ -13,8 +13,11 @@ Folders:
 ## Running the app
 
 cd flask_login
+
 source .venv/bin/activate
+
 export FLASK_APP=app.py
+
 flask run
 
 
